@@ -1,0 +1,2 @@
+# staticSite
+Gatsby
